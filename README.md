@@ -1,0 +1,102 @@
+# Data Collection Methods
+
+This repository contains lecture materials introducing the main
+techniques used to gather data for data analysis, data science, and
+machine learning projects. The goal is to provide students with a clear
+overview of the most common data acquisition approaches used in
+real-world applications.
+
+The materials are designed for undergraduate students and focus on
+conceptual understanding supported by simple Python examples.
+
+## Learning Objectives
+
+After studying these materials, students should be able to:
+
+-   understand the role of data gathering in the data analysis pipeline
+-   identify different sources of data
+-   distinguish between common data collection techniques
+-   understand when each method should be used
+-   implement simple examples of automated data retrieval in Python
+
+## Topics Covered
+
+The repository introduces four main data gathering methods:
+
+1.  Direct Data Access\
+    Retrieving datasets that are already available in structured formats
+    such as CSV, Excel, or database exports.
+
+2.  API Data Access\
+    Accessing data programmatically through APIs that provide structured
+    responses (typically JSON).
+
+3.  Web Scraping\
+    Extracting information directly from web pages by analysing their
+    HTML structure.
+
+4.  Web Crawling\
+    Automatically discovering and exploring large numbers of webpages by
+    following links between them.
+
+## Repository Structure
+
+00_Introduction.md\
+Overview of data gathering and the main acquisition techniques.
+
+01_direct_data_access.md\
+Accessing structured datasets from open data portals, repositories, and
+files.
+
+02_api_data_access.md\
+Retrieving data through APIs using HTTP requests.
+
+03_web_crawling.md\
+Exploring websites automatically by following links.
+
+04_web_scraping.md\
+Extracting information from webpage HTML content.
+
+## Typical Data Collection Pipeline
+
+Data Sources\
+↓\
+Direct Datasets / APIs / Websites\
+↓\
+Data Gathering Techniques\
+↓\
+Collected Data\
+↓\
+Storage and Analysis
+
+## Tools Used in the Examples
+
+The examples rely on common Python libraries:
+
+-   pandas
+-   requests
+-   BeautifulSoup
+
+These tools are widely used for data collection and preprocessing tasks.
+
+## Responsible Data Collection
+
+When gathering data, it is important to follow responsible practices:
+
+-   respect website terms of service
+-   follow API rate limits
+-   check robots.txt policies
+-   avoid excessive requests to servers
+
+Responsible data collection ensures ethical and sustainable use of
+online data sources.
+
+## Intended Audience
+
+These materials are intended for:
+
+-   undergraduate students
+-   introductory data science courses
+-   programming courses involving data collection
+
+Basic familiarity with Python is helpful but not required.
