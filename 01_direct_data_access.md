@@ -111,6 +111,8 @@ Examples:
 -   https://data.gov\
 -   https://data.europa.eu\
 -   https://dati.gov.it
+-   [https://dati.lombardia.it/](https://dati.lombardia.it/)
+-   [https://www.istat.it/dati/open-data/](https://www.istat.it/dati/open-data/)
 
 These portals often allow datasets to be downloaded directly in formats
 such as CSV or Excel.
@@ -119,12 +121,6 @@ such as CSV or Excel.
 
 Academic institutions and research projects frequently share datasets to
 promote reproducibility and collaboration.
-
-Examples:
-
--   https://zenodo.org\
--   https://figshare.com\
--   https://dataverse.org
 
 These platforms host datasets associated with scientific publications
 and research projects.
