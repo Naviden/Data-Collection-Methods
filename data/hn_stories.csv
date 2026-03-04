@@ -1,0 +1,31 @@
+rank,title,score,link
+1,Nobody Gets Promoted for Simplicity,168 points,https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/
+2,Glaze by Raycast,44 points,https://www.glazeapp.com/
+3,Motorola GrapheneOS devices will be bootloader unlockable/relockable,944 points,https://grapheneos.social/@GrapheneOS/116160393783585567
+4,RFC 9849. TLS Encrypted Client Hello,159 points,https://www.rfc-editor.org/rfc/rfc9849.html
+5,Agentic Engineering Patterns,273 points,https://simonwillison.net/guides/agentic-engineering-patterns/
+6,RE#: how we built the fastest regex engine in F#,89 points,https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/
+7,Elevator Saga: The elevator programming game (2015),44 points,https://play.elevatorsaga.com/index.html
+8,A CPU that runs entirely on GPU,152 points,https://github.com/robertcprice/nCPU
+9,Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf],5 points,https://www.ti.com/lit/an/slyt468/slyt468.pdf
+10,Show HN: Stacked Game of Life,83 points,https://stacked-game-of-life.koenvangilst.nl/
+11,Jiga (YC W21) Is Hiring,N/A,https://jiga.io/about-us
+12,Better JIT for Postgres,95 points,https://github.com/vladich/pg_jitter
+13,Graphics Programming Resources,137 points,https://develop--gpvm-website.netlify.app/resources/
+14,Chimpanzees Are into Crystals,4 points,https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html
+15,Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups,31 points,https://github.com/lixiasky-back/coroTracer
+16,Claude's Cycles [pdf],695 points,https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf
+17,Did Alibaba just kneecap its powerful Qwen AI team?,29 points,https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in
+18,Bet on German Train Delays,174 points,https://bahn.bet
+19,Weave – A language aware merge algorithm based on entities,154 points,https://github.com/Ataraxy-Labs/weave
+20,Greg Knauss Is Losing Himself,9 points,https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html
+21,Voxile: A ray-traced game made in its own engine and programming language,234 points,https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update
+22,On the Design of Programming Languages (1974) [pdf],58 points,https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF
+23,Textadept,167 points,https://orbitalquark.github.io/textadept/
+24,My spicy take on vibe coding for PMs,144 points,https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/
+25,Indefinite Book Club Hiatus,67 points,https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/
+26,Modern Illustration: Archive of illustration from c.1950-1975,17 points,https://www.modernillustration.org
+27,Qwen3.5 Fine-Tuning Guide – Unsloth Documentation,3 points,https://unsloth.ai/docs/models/qwen3.5/fine-tune
+28,The JVG algorithm could break RSA-2048 encryption with fewer than 5k qubits,3 points,https://briefglance.com/articles/new-quantum-algorithm-warns-of-an-accelerated-crypto-apocalypse
+29,"When AI writes the software, who verifies it?",272 points,https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html
+30,Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math,35 points,https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/

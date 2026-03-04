@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "title": "Nobody Gets Promoted for Simplicity",
+    "score": "135 points",
+    "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
+  },
+  {
+    "rank": 2,
+    "title": "Glaze by Raycast",
+    "score": "32 points",
+    "link": "https://www.glazeapp.com/"
+  },
+  {
+    "rank": 3,
+    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+    "score": "930 points",
+    "link": "https://grapheneos.social/@GrapheneOS/116160393783585567"
+  },
+  {
+    "rank": 4,
+    "title": "RFC 9849. TLS Encrypted Client Hello",
+    "score": "151 points",
+    "link": "https://www.rfc-editor.org/rfc/rfc9849.html"
+  },
+  {
+    "rank": 5,
+    "title": "Agentic Engineering Patterns",
+    "score": "266 points",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/"
+  },
+  {
+    "rank": 6,
+    "title": "RE#: how we built the fastest regex engine in F#",
+    "score": "84 points",
+    "link": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/"
+  },
+  {
+    "rank": 7,
+    "title": "Elevator Saga: The elevator programming game (2015)",
+    "score": "39 points",
+    "link": "https://play.elevatorsaga.com/index.html"
+  },
+  {
+    "rank": 8,
+    "title": "A CPU that runs entirely on GPU",
+    "score": "148 points",
+    "link": "https://github.com/robertcprice/nCPU"
+  },
+  {
+    "rank": 9,
+    "title": "Show HN: Stacked Game of Life",
+    "score": "77 points",
+    "link": "https://stacked-game-of-life.koenvangilst.nl/"
+  },
+  {
+    "rank": 10,
+    "title": "Jiga (YC W21) Is Hiring",
+    "score": "N/A",
+    "link": "https://jiga.io/about-us"
+  },
+  {
+    "rank": 11,
+    "title": "Better JIT for Postgres",
+    "score": "92 points",
+    "link": "https://github.com/vladich/pg_jitter"
+  },
+  {
+    "rank": 12,
+    "title": "Graphics Programming Resources",
+    "score": "133 points",
+    "link": "https://develop--gpvm-website.netlify.app/resources/"
+  },
+  {
+    "rank": 13,
+    "title": "Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups",
+    "score": "30 points",
+    "link": "https://github.com/lixiasky-back/coroTracer"
+  },
+  {
+    "rank": 14,
+    "title": "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
+    "score": "3 points",
+    "link": "https://www.ti.com/lit/an/slyt468/slyt468.pdf"
+  },
+  {
+    "rank": 15,
+    "title": "Claude's Cycles [pdf]",
+    "score": "690 points",
+    "link": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf"
+  },
+  {
+    "rank": 16,
+    "title": "Did Alibaba just kneecap its powerful Qwen AI team?",
+    "score": "22 points",
+    "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in"
+  },
+  {
+    "rank": 17,
+    "title": "Greg Knauss Is Losing Himself",
+    "score": "6 points",
+    "link": "https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html"
+  },
+  {
+    "rank": 18,
+    "title": "Weave – A language aware merge algorithm based on entities",
+    "score": "151 points",
+    "link": "https://github.com/Ataraxy-Labs/weave"
+  },
+  {
+    "rank": 19,
+    "title": "Bet on German Train Delays",
+    "score": "164 points",
+    "link": "https://bahn.bet"
+  },
+  {
+    "rank": 20,
+    "title": "Voxile: A ray-traced game made in its own engine and programming language",
+    "score": "231 points",
+    "link": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update"
+  },
+  {
+    "rank": 21,
+    "title": "On the Design of Programming Languages (1974) [pdf]",
+    "score": "57 points",
+    "link": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF"
+  },
+  {
+    "rank": 22,
+    "title": "Textadept",
+    "score": "165 points",
+    "link": "https://orbitalquark.github.io/textadept/"
+  },
+  {
+    "rank": 23,
+    "title": "My spicy take on vibe coding for PMs",
+    "score": "141 points",
+    "link": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/"
+  },
+  {
+    "rank": 24,
+    "title": "Indefinite Book Club Hiatus",
+    "score": "65 points",
+    "link": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/"
+  },
+  {
+    "rank": 25,
+    "title": "When AI writes the software, who verifies it?",
+    "score": "271 points",
+    "link": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html"
+  },
+  {
+    "rank": 26,
+    "title": "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
+    "score": "35 points",
+    "link": "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/"
+  },
+  {
+    "rank": 27,
+    "title": "Nuclear War: An LLM Scenario",
+    "score": "14 points",
+    "link": "https://chrisclapham.com/blog/nuclear-war-an-llm-scenario"
+  },
+  {
+    "rank": 28,
+    "title": "Modern Illustration: Archive of illustration from c.1950-1975",
+    "score": "13 points",
+    "link": "https://www.modernillustration.org"
+  },
+  {
+    "rank": 29,
+    "title": "TikTok will not introduce end-to-end encryption, saying it makes users less safe",
+    "score": "295 points",
+    "link": "https://www.bbc.com/news/articles/cly2m5e5ke4o"
+  },
+  {
+    "rank": 30,
+    "title": "Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents",
+    "score": "89 points",
+    "link": "item?id=47232903"
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "rank": 1,
+    "title": "Nobody Gets Promoted for Simplicity",
+    "score": "168 points",
+    "link": "https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/"
+  },
+  {
+    "rank": 2,
+    "title": "Glaze by Raycast",
+    "score": "44 points",
+    "link": "https://www.glazeapp.com/"
+  },
+  {
+    "rank": 3,
+    "title": "Motorola GrapheneOS devices will be bootloader unlockable/relockable",
+    "score": "944 points",
+    "link": "https://grapheneos.social/@GrapheneOS/116160393783585567"
+  },
+  {
+    "rank": 4,
+    "title": "RFC 9849. TLS Encrypted Client Hello",
+    "score": "159 points",
+    "link": "https://www.rfc-editor.org/rfc/rfc9849.html"
+  },
+  {
+    "rank": 5,
+    "title": "Agentic Engineering Patterns",
+    "score": "273 points",
+    "link": "https://simonwillison.net/guides/agentic-engineering-patterns/"
+  },
+  {
+    "rank": 6,
+    "title": "RE#: how we built the fastest regex engine in F#",
+    "score": "89 points",
+    "link": "https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/"
+  },
+  {
+    "rank": 7,
+    "title": "Elevator Saga: The elevator programming game (2015)",
+    "score": "44 points",
+    "link": "https://play.elevatorsaga.com/index.html"
+  },
+  {
+    "rank": 8,
+    "title": "A CPU that runs entirely on GPU",
+    "score": "152 points",
+    "link": "https://github.com/robertcprice/nCPU"
+  },
+  {
+    "rank": 9,
+    "title": "Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf]",
+    "score": "5 points",
+    "link": "https://www.ti.com/lit/an/slyt468/slyt468.pdf"
+  },
+  {
+    "rank": 10,
+    "title": "Show HN: Stacked Game of Life",
+    "score": "83 points",
+    "link": "https://stacked-game-of-life.koenvangilst.nl/"
+  },
+  {
+    "rank": 11,
+    "title": "Jiga (YC W21) Is Hiring",
+    "score": "N/A",
+    "link": "https://jiga.io/about-us"
+  },
+  {
+    "rank": 12,
+    "title": "Better JIT for Postgres",
+    "score": "95 points",
+    "link": "https://github.com/vladich/pg_jitter"
+  },
+  {
+    "rank": 13,
+    "title": "Graphics Programming Resources",
+    "score": "137 points",
+    "link": "https://develop--gpvm-website.netlify.app/resources/"
+  },
+  {
+    "rank": 14,
+    "title": "Chimpanzees Are into Crystals",
+    "score": "4 points",
+    "link": "https://www.nytimes.com/2026/03/04/science/chimpanzees-crystals.html"
+  },
+  {
+    "rank": 15,
+    "title": "Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups",
+    "score": "31 points",
+    "link": "https://github.com/lixiasky-back/coroTracer"
+  },
+  {
+    "rank": 16,
+    "title": "Claude's Cycles [pdf]",
+    "score": "695 points",
+    "link": "https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf"
+  },
+  {
+    "rank": 17,
+    "title": "Did Alibaba just kneecap its powerful Qwen AI team?",
+    "score": "29 points",
+    "link": "https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in"
+  },
+  {
+    "rank": 18,
+    "title": "Bet on German Train Delays",
+    "score": "174 points",
+    "link": "https://bahn.bet"
+  },
+  {
+    "rank": 19,
+    "title": "Weave – A language aware merge algorithm based on entities",
+    "score": "154 points",
+    "link": "https://github.com/Ataraxy-Labs/weave"
+  },
+  {
+    "rank": 20,
+    "title": "Greg Knauss Is Losing Himself",
+    "score": "9 points",
+    "link": "https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html"
+  },
+  {
+    "rank": 21,
+    "title": "Voxile: A ray-traced game made in its own engine and programming language",
+    "score": "234 points",
+    "link": "https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update"
+  },
+  {
+    "rank": 22,
+    "title": "On the Design of Programming Languages (1974) [pdf]",
+    "score": "58 points",
+    "link": "https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF"
+  },
+  {
+    "rank": 23,
+    "title": "Textadept",
+    "score": "167 points",
+    "link": "https://orbitalquark.github.io/textadept/"
+  },
+  {
+    "rank": 24,
+    "title": "My spicy take on vibe coding for PMs",
+    "score": "144 points",
+    "link": "https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/"
+  },
+  {
+    "rank": 25,
+    "title": "Indefinite Book Club Hiatus",
+    "score": "67 points",
+    "link": "https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/"
+  },
+  {
+    "rank": 26,
+    "title": "Modern Illustration: Archive of illustration from c.1950-1975",
+    "score": "17 points",
+    "link": "https://www.modernillustration.org"
+  },
+  {
+    "rank": 27,
+    "title": "Qwen3.5 Fine-Tuning Guide – Unsloth Documentation",
+    "score": "3 points",
+    "link": "https://unsloth.ai/docs/models/qwen3.5/fine-tune"
+  },
+  {
+    "rank": 28,
+    "title": "The JVG algorithm could break RSA-2048 encryption with fewer than 5k qubits",
+    "score": "3 points",
+    "link": "https://briefglance.com/articles/new-quantum-algorithm-warns-of-an-accelerated-crypto-apocalypse"
+  },
+  {
+    "rank": 29,
+    "title": "When AI writes the software, who verifies it?",
+    "score": "272 points",
+    "link": "https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html"
+  },
+  {
+    "rank": 30,
+    "title": "Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math",
+    "score": "35 points",
+    "link": "https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/"
+  }
+]

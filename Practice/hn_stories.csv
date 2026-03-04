@@ -1,0 +1,31 @@
+rank,title,score,link
+1,Nobody Gets Promoted for Simplicity,135 points,https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/
+2,Glaze by Raycast,32 points,https://www.glazeapp.com/
+3,Motorola GrapheneOS devices will be bootloader unlockable/relockable,930 points,https://grapheneos.social/@GrapheneOS/116160393783585567
+4,RFC 9849. TLS Encrypted Client Hello,151 points,https://www.rfc-editor.org/rfc/rfc9849.html
+5,Agentic Engineering Patterns,266 points,https://simonwillison.net/guides/agentic-engineering-patterns/
+6,RE#: how we built the fastest regex engine in F#,84 points,https://iev.ee/blog/resharp-how-we-built-the-fastest-regex-in-fsharp/
+7,Elevator Saga: The elevator programming game (2015),39 points,https://play.elevatorsaga.com/index.html
+8,A CPU that runs entirely on GPU,148 points,https://github.com/robertcprice/nCPU
+9,Show HN: Stacked Game of Life,77 points,https://stacked-game-of-life.koenvangilst.nl/
+10,Jiga (YC W21) Is Hiring,N/A,https://jiga.io/about-us
+11,Better JIT for Postgres,92 points,https://github.com/vladich/pg_jitter
+12,Graphics Programming Resources,133 points,https://develop--gpvm-website.netlify.app/resources/
+13,Show HN: I made a zero-copy coroutine tracer to find my scheduler's lost wakeups,30 points,https://github.com/lixiasky-back/coroTracer
+14,Charging a three-cell nickel-based battery pack with a Li-Ion charger [pdf],3 points,https://www.ti.com/lit/an/slyt468/slyt468.pdf
+15,Claude's Cycles [pdf],690 points,https://www-cs-faculty.stanford.edu/~knuth/papers/claude-cycles.pdf
+16,Did Alibaba just kneecap its powerful Qwen AI team?,22 points,https://venturebeat.com/technology/did-alibaba-just-kneecap-its-powerful-qwen-ai-team-key-figures-depart-in
+17,Greg Knauss Is Losing Himself,6 points,https://shapeof.com/archives/2026/2/greg_knauss_is_losing_himself.html
+18,Weave – A language aware merge algorithm based on entities,151 points,https://github.com/Ataraxy-Labs/weave
+19,Bet on German Train Delays,164 points,https://bahn.bet
+20,Voxile: A ray-traced game made in its own engine and programming language,231 points,https://elbowgreasegames.substack.com/p/voxray-games-pushes-major-update
+21,On the Design of Programming Languages (1974) [pdf],57 points,https://web.cs.ucdavis.edu/~su/teaching/ecs240-w17/readings/PLHistoryGoodDesign.PDF
+22,Textadept,165 points,https://orbitalquark.github.io/textadept/
+23,My spicy take on vibe coding for PMs,141 points,https://www.ddmckinnon.com/2026/02/11/my-%f0%9f%8c%b6-take-on-vibe-coding-for-pms/
+24,Indefinite Book Club Hiatus,65 points,https://whatever.scalzi.com/2026/03/03/indefinite-book-club-hiatus/
+25,"When AI writes the software, who verifies it?",271 points,https://leodemoura.github.io/blog/2026/02/28/when-ai-writes-the-worlds-software.html
+26,Reverse-Engineering the Wetware: Spiking Networks and the End of Matrix Math,35 points,https://metaduck.com/reverse-engineering-the-wetware-spiking-networks-td-errors-and-the-end-of-matrix-math/
+27,Nuclear War: An LLM Scenario,14 points,https://chrisclapham.com/blog/nuclear-war-an-llm-scenario
+28,Modern Illustration: Archive of illustration from c.1950-1975,13 points,https://www.modernillustration.org
+29,"TikTok will not introduce end-to-end encryption, saying it makes users less safe",295 points,https://www.bbc.com/news/articles/cly2m5e5ke4o
+30,Launch HN: Cekura (YC F24) – Testing and monitoring for voice and chat AI agents,89 points,item?id=47232903
